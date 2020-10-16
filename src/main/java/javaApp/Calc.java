@@ -17,7 +17,6 @@ return a * b;
     }
     public int divide(int a, int b) {
     //insert your code here
-
 return a / b;
     }
 }  
